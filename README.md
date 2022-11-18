@@ -24,11 +24,11 @@
 </p>
 
   <p align="left">
-    <a href="https://github.com/NelsonChad"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonChad&theme=vue"/></a>
+    <a href="https://github.com/NelsonChad"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonChad&theme=dracula"/></a>
    </p>
    
  
- [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NelsonChad&bg_color=111111&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NelsonChad&bg_color=111111&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <!--START_SECTION:waka-->
 
