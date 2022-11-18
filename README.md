@@ -24,7 +24,7 @@
 </p>
 
   <p align="left">
-    <a href="https://github.com/NelsonChad"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonChad&theme=dracula"/></a>
+    <a href="https://github.com/NelsonChad"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonChad&theme=vue"/></a>
    </p>
    
  
