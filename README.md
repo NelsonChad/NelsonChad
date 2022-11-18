@@ -1,9 +1,9 @@
 <div target="_blank" align="center">
-  <img align="right" top="500" height="360" width="360" alt="GIF" src="https://user-images.githubusercontent.com/64174170/202542933-bb6f3d82-6a33-4d6c-9e6a-433f477e5ffc.png">
+  <img align="right" top="500" height="360" width="360" alt="GIF" src="https://cdn-icons-png.flaticon.com/512/2961/2961321.png">
   <br/>
 </div>
 
-## Hello there👋, I'm Celso 
+## Hello there👋, I'm Nelson Chadaly 
 
 #### 🔭 I’m currently working with React js and Spring boot 
 #### 🌱 I’m currently learning ui/ux design and spring security
