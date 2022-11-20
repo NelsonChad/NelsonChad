@@ -33,11 +33,14 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 17 November 2022
+From: 16 November 2022 - To: 18 November 2022
 
-Total Time: 6 hrs 1 min
+Total Time: 9 hrs 10 mins
 
-Dart   6 hrs 1 min     █████████████████████████   100.00 %
+Dart    8 hrs 53 mins   ████████████████████████▒   96.81 %
+YAML    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+HTML    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
