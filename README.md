@@ -5,8 +5,8 @@
 
 ## Hello there👋, I'm Nelson Chadaly 
 
-#### 🔭 I’m currently working with React js and Spring boot 
-#### 🌱 I’m currently learning ui/ux design and spring security
+#### 🔭 I’m currently working with Flutter/Dart, Laravel and Ionic PWA 
+#### 🌱 I’m currently learning ui/ux design, devOps and more, 
 ---
 
 <div id="badges"  align="left">
