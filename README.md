@@ -33,7 +33,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 03 May 2023
+From: 16 November 2022 - To: 04 May 2023
 
 Total Time: 181 hrs 50 mins
 
@@ -42,7 +42,6 @@ TypeScript   11 hrs 3 mins   █▓░░░░░░░░░░░░░░░
 HTML         3 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 YAML         1 hr 6 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 SCSS         57 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-PHP          26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
