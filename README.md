@@ -17,6 +17,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=NelsonChad&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
 
+## 🏅 Badges
  <p align="left">
   <a href="https://github.com/NelsonChad">
   <img width=55% src="https://github-readme-stats.vercel.app/api?username=NelsonChad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +29,6 @@
    </p>
    
  ## 🤖 Activities 
-<hr>
  [![NelsonChad github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonChad)](https://github.com/NelsonChad/github-readme-activity-graph)
  
  <!--START_SECTION:waka-->
@@ -56,5 +56,4 @@ SCSS         57 mins         ░░░░░░░░░░░░░░░░░
 </div>
 
 ## 📈 Summary 
-<hr>
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NelsonChad&theme=dracula)
