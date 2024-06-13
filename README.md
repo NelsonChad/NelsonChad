@@ -9,13 +9,12 @@
 #### 🌱 I’m currently learning ui/ux design, devOps and more, 
 ---
 
-## 🏅 Badges
-<div id="badges"  align="left">
 
+<div id="badges"  align="left">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Do+you+want+to+code+with+me?)](https://git.io/typing-svg)
   </div>   
     
-  
+## 🏅 Badges
 [![trophy](https://github-profile-trophy.vercel.app/?username=NelsonChad&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ## ⚙️ Stats
