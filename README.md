@@ -9,6 +9,7 @@
 #### 🌱 I’m currently learning ui/ux design, devOps and more, 
 ---
 
+## 🏅 Badges
 <div id="badges"  align="left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Do+you+want+to+code+with+me?)](https://git.io/typing-svg)
@@ -17,7 +18,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=NelsonChad&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
 
-## 🏅 Badges
+## ⚙️ Stats
  <p align="left">
   <a href="https://github.com/NelsonChad">
   <img width=55% src="https://github-readme-stats.vercel.app/api?username=NelsonChad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,22 +31,6 @@
    
  ## 🤖 Activities 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonChad&theme=vue)](https://github.com/NelsonChad/github-readme-activity-graph)
- 
- <!--START_SECTION:waka-->
-
-```txt
-From: 16 November 2022 - To: 11 June 2024
-
-Total Time: 181 hrs 50 mins
-
-Dart         163 hrs 50 mins ██████████████████████▓░░   90.10 %
-TypeScript   11 hrs 3 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-HTML         3 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-YAML         1 hr 6 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-SCSS         57 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-```
-
-<!--END_SECTION:waka-->
 
 <div> 
   <a href="https://www.youtube.com/channel/UCCJxgXrV3x_lc4Gw5ogynew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
