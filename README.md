@@ -17,7 +17,7 @@
 </div>   
     
 ## 🏅 Badges
-[![trophy](https://github-profile-trophy.vercel.app/?username=NelsonChad&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=NelsonChad&margin-w=10&margin-h=10&column=4)](https://github.com/NelsonChad/github-profile-trophy)  
 
 ## ⚙️ Stats
  <p align="left">
