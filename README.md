@@ -27,9 +27,8 @@
     <a href="https://github.com/NelsonChad"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonChad&theme=dracula"/></a>
    </p>
    
- 
- [![Nelson's github activity graph](https://activity-graph.herokuapp.com/graph?username=NelsonChad&bg_color=111111&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true&theme=vue)](https://github.com/NelsonChad/github-readme-activity-graph)
-
+ ## 🤖 Activities 
+<hr>
  [![NelsonChad github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonChad)](https://github.com/NelsonChad/github-readme-activity-graph)
  
  <!--START_SECTION:waka-->
@@ -56,4 +55,6 @@ SCSS         57 mins         ░░░░░░░░░░░░░░░░░
  
 </div>
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURNAME&theme=dracula)
+## 📈 Summary 
+<hr>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NelsonChad&theme=dracula)
