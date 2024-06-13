@@ -31,7 +31,7 @@
  ## 🤖 Activities 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonChad&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/NelsonChad/github-readme-activity-graph)
  
- [![NelsonChad github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonChad)](https://github.com/NelsonChad/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonChad&theme=dracula)](https://github.com/NelsonChad/github-readme-activity-graph)
  
  <!--START_SECTION:waka-->
 
