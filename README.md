@@ -3,15 +3,14 @@
   <br/>
 </div>
 
-<div id="badges"  align="left">
 ## Hello there👋, I'm Nelson Chadaly 
+<div id="badges"  align="left">
 
 #### 🔭 I’m currently working with Flutter/Dart, Laravel and Ionic PWA 
 #### 🌱 I’m currently learning ui/ux design, devOps and more, 
 ---
 </div>
 
-##f
 <div id="badges"  align="right">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Do+you+want+to+code+with+me?)](https://git.io/typing-svg)
