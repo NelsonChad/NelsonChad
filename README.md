@@ -3,7 +3,7 @@
   <br/>
 </div>
 
-# Hello there👋, I'm Nelson Chadaly 
+<h1>Hello there👋, I'm Nelson Chadaly </h1>
 <div id="badges"  align="left">
 
 #### 🔭 I’m currently working with Flutter/Dart, Laravel and Ionic PWA 
