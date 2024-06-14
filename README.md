@@ -1,9 +1,10 @@
-<div target="_blank" align="center">
+
+<div target="_blank" align="right">
   <img align="right" top="500" height="360" width="360" alt="GIF" src="https://cdn-icons-png.flaticon.com/512/2961/2961321.png">
   <br/>
 </div>
 
-<h1>Hello there👋, I'm Nelson Chadaly </h1>
+# Hello there👋, I'm Nelson Chadaly 
 <div id="badges"  align="left">
 
 #### 🔭 I’m currently working with Flutter/Dart, Laravel and Ionic PWA 
@@ -17,20 +18,19 @@
 </div>   
     
 ## 🏅 Badges
-[![trophy](https://github-profile-trophy.vercel.app/?username=NelsonChad&margin-w=10&margin-h=10&column=4)](https://github.com/NelsonChad/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=NelsonChad&margin-w=10&margin-h=10&column=7)](https://github.com/NelsonChad/github-profile-trophy)  
 
 ## ⚙️ Stats
-<div>
- <div align="left">
-  <a href="https://github.com/NelsonChad">
-    <img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonChad&theme=dracula"/>
-    <img width=55% src="https://github-readme-stats.vercel.app/api?username=NelsonChad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"/>
-</div>
 
-  <div align="right">
-    <img  width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonChad&layout=compact&langs_count=20&theme=dracula"/> 
-  </div>
-</div>
+
+ <img width=50% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonChad&theme=dracula"/> 
+ <img width=48% src="https://github-readme-stats.vercel.app/api?username=NelsonChad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
+ <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonChad&layout=compact&langs_count=20&theme=dracula"/> 
+ <div align="right">
+
+</div> 
    
  ## 🤖 Activities 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonChad&theme=vue)](https://github.com/NelsonChad/github-readme-activity-graph)
