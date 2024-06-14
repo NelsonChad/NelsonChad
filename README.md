@@ -20,15 +20,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NelsonChad&margin-w=10&margin-h=10&column=4)](https://github.com/NelsonChad/github-profile-trophy)  
 
 ## ⚙️ Stats
- <p align="left">
+ <div align="left">
   <a href="https://github.com/NelsonChad">
     <img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonChad&theme=dracula"/>
     <img width=55% src="https://github-readme-stats.vercel.app/api?username=NelsonChad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</div>
 
-<p align="right">
+<div align="right">
   <img  width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonChad&layout=compact&langs_count=20&theme=dracula"/> 
-</p>
+</div>
    
  ## 🤖 Activities 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonChad&theme=vue)](https://github.com/NelsonChad/github-readme-activity-graph)
